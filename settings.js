@@ -19,13 +19,13 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94771790791']
-global.premium = ['+94771790791']
-global.ownernomer = '+94771790791'
+global.owner = ['+94711816989']
+global.premium = ['+94711816989']
+global.ownernomer = '+94711816989'
 global.ownername = 'isuru pramod'
 global.botname = 'DARK FIGHTER'
 global.footer = '©Shadow'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://chat.whatsapp.com/IONXwGZuwf4DmKcFpV3Kz5'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
